@@ -30,7 +30,7 @@ MongoDB is a NoSQL database that stores data in flexible, JSON-like documents, m
 <img src= https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/cars%20booking%20page.png width="500" height="316">
 
 <h1>Admin Dashboard</h1>
-<img src= https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/admin%20dashboard.png width="500" height="316">
+<img src= Car-renting-Full-Stack-Website-main/images/admin%20dashboard.png width="500" height="316">
 
 <h1>Car Management page</h1>
 <img src=https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/car%20management%20page.png  width="500" height="316">
