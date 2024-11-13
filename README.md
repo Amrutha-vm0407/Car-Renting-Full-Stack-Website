@@ -15,31 +15,31 @@ MongoDB is a NoSQL database that stores data in flexible, JSON-like documents, m
 
 <h1>Screenshots of the application</h1>
 <h1>Home Page</h1>
-<img src=https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/home%20page.png  width="500" height="316">
+<img src=Car-renting-Full-Stack-Website-main/images/home%20page.png  width="500" height="316">
 
 <h1>Contact Page</h1>
-<img src= https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/contact%20page.png  width="500" height="316">
+<img src= Car-renting-Full-Stack-Website-main/images/contact%20page.png  width="500" height="316">
 
 <h1>Service Page</h1>
-<img src=https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/service%20page.png  width="500" height="316">
+<img src=Car-renting-Full-Stack-Website-main/images/service%20page.png  width="500" height="316">
 
 <h1>Cars Page</h1>
-<img src=https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/cars%20page.png width="500" height="316" >
+<img src=Car-renting-Full-Stack-Website-main/images/cars%20page.png width="500" height="316" >
 
 <h1>Cars booking Page</h1>
-<img src= https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/cars%20booking%20page.png width="500" height="316">
+<img src= Car-renting-Full-Stack-Website-main/images/cars%20booking%20page.png width="500" height="316">
 
 <h1>Admin Dashboard</h1>
 <img src= Car-renting-Full-Stack-Website-main/images/admin%20dashboard.png width="500" height="316">
 
 <h1>Car Management page</h1>
-<img src=https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/car%20management%20page.png  width="500" height="316">
+<img src=Car-renting-Full-Stack-Website-main/images/car%20management%20page.png  width="500" height="316">
 
 <h1>Car adding page</h1>
 <img src= Car-renting-Full-Stack-Website-main/images/adding%20cars%20page.png width="500" height="316">
 
 <h1>Number of cars booked</h1>
-<img src= https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/numbers%20of%20cars%20booked.png width="2000" height="316">
+<img src= Car-renting-Full-Stack-Website-main/images/numbers%20of%20cars%20booked.png width="2000" height="316">
 
 
 ## Application Structure
